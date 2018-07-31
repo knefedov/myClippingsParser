@@ -1,2 +1,2 @@
-# myClippingsParser
-Parser for Amazon Kindle notes
+# My Clippings parser
+Parser for Amazon Kindle notes.
